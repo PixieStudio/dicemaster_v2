@@ -1,5 +1,5 @@
-const BASE_URL = 'https://freedicemaster.laflys.com' // Url app
-const CLIENT_ID = '3074457347661918546' // App ID
+const BASE_URL = 'https://xxx.ngrok.io' // Url app
+const CLIENT_ID = '' // App ID
 
 // Images dés
 const images = [
